@@ -28,6 +28,7 @@
 - **[NASA Open APIs](https://api.nasa.gov/)** - A collection of APIs from NASA, including imagery, Mars rover data, exoplanet databases, and more.
 - **[ESA Open Data Portal](https://www.esa.int/Applications/Observing_the_Earth/Access_to_data)** - Provides access to European Space Agency data for Earth observation and planetary science.
 - **[OpenSpaceData](https://openspacedata.org/)** - A hub for open space-related data from various organizations.
+- **[Orbit Sentinel](https://www.viventine.com/orbit-sentinel/)** - Searchable database and API of 950K+ space regulatory filings from the FCC, ITU, UNOOSA, and FAA-AST, with an open-source (MIT) MCP server for AI clients.
 
 ## Satellite Imagery APIs
 
