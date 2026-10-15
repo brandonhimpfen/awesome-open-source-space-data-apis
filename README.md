@@ -28,7 +28,7 @@
 
 - **[NASA Open APIs](https://api.nasa.gov/)** - A collection of APIs from NASA, including imagery, Mars rover data, exoplanet databases, and more.
 - **[ESA Open Data Portal](https://www.esa.int/Applications/Observing_the_Earth/Access_to_data)** - Provides access to European Space Agency data for Earth observation and planetary science.
-- **[OpenSpaceData](https://openspacedata.org/)** - A hub for open space-related data from various organizations.
+- **[Calder Brief — space coverage hub](https://calder-brief.pages.dev/space-hub)** - A hub of tech news coverage on space missions, launches, and space data.
 
 ## Satellite Imagery APIs
 
